@@ -13,8 +13,3 @@ Desarrollador de software junior **Full Stack & SAP**, actualmente cursando el T
 - **[laliga-fantasy-stats](https://github.com/samuelmv76/laliga-fantasy-stats)** — App en React + Vite para seguir tu equipo de LaLiga Fantasy: mercado, gráficas de evolución de precios y ranking diario.
 - **[Runeterra-Tactics](https://github.com/samuelmv76/Runeterra-Tactics)** — Videojuego táctico con Angular, Spring Boot, MySQL y MongoDB.
 - **[eSport-Gear](https://github.com/samuelmv76/eSport-Gear)** — Tienda online de material eSports con Laravel, React y MySQL.
-
-#### 📊 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmv76&show_icons=true&theme=default)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmv76&layout=compact)
