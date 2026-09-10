@@ -1,6 +1,6 @@
 # Samuel Martos
 
-Desarrollador de software full stack, especializado también en SAP. Actualmente cursando el Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en el CIFP Avilés, Asturias.
+Desarrollador de software full stack junior, especializado también en SAP. Titulado en Sistemas Microinformáticos y Redes (SMR), Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM), en el CIFP Avilés, Asturias.
 
 He hecho prácticas en desarrollo SAP (RAP, SAP BTP, ABAP, vistas CDS) en Phoenix Contact, y antes en frontend con React en Capgemini. Trabajo sobre todo con JavaScript/TypeScript, React, Angular, Java con Spring Boot, PHP con Laravel y bases de datos SQL y MongoDB.
 
